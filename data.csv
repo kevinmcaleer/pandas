@@ -1,0 +1,452 @@
+,Content,Video title,Video publish time,Views,Watch time (hours),Subscribers,Impressions,Impressions click-through rate (%)
+0,Total,,,1518192.0,99311.4246,22492.0,16821579,3.86
+1,Y5atyJbVsAU,Build Your Own AI Assistant Part 1 - Creating the Assistant,"Apr 19, 2021",91889.0,6616.7672,2195.0,826307,4.26
+2,KPfBOGjJdqE,Control Arduino with  Python using Firmata / PyFirmata,"Aug 2, 2021",71997.0,4369.5056,923.0,714523,6.25
+3,0sPPxIq4hg8,Build your own web server using a Raspberry Pi Pico W using Phew!,"Aug 29, 2022",39859.0,5724.766,590.0,551561,3.66
+4,hiVcgUdjy0A,"Node-Red Automation, MQTT, NodeMCU & MicroPython","Mar 29, 2021",32772.0,4731.7602,557.0,478008,3.75
+5,VFC4XTRUNYk,Raspberry Pi Pico Wifi Module - how to add Wifi to your Pico Projects,"Aug 11, 2021",32433.0,1163.3378,275.0,186422,8.03
+6, -BObt8inVs8,"How to Map with LiDAR - using a Raspberry Pi Zero 2W, RPLidar and Rviz","Mar 14, 2022",29420.0,1680.5497,407.0,217807,5.89
+7,fmgQ8Dcg9uM,Install MicroPython on ESP8266 & ESP32,"May 26, 2021",24447.0,706.8925,167.0,159620,8.61
+8,1VhmBdHHU0I,Just don’t make it angry,"Nov 7, 2022",20779.0,69.6025,53.0,9360,3.3
+9,o8Cvr9nuccs,Raspberry Pi 4 & VS Code,"Feb 12, 2021",20592.0,939.0703,153.0,115094,8.88
+10,436VDF-rk4w,ESP32CAM for Robotics - MicroPython and SMARS,"Sep 3, 2021",20435.0,1037.1407,171.0,172021,5.69
+11,PdYxop5aa2E,Raspberry Pi Pico and the nRF24L01 radio module - how to get this working with MicroPython,"Aug 26, 2021",20369.0,884.3123,180.0,113205,6.56
+12,QeDnjcdGrpY,"Micropython Threads - Use Both Cores, on Raspberry Pi Pico and ESP32","Dec 13, 2021",19476.0,2830.9895,344.0,301645,2.93
+13,A7ZJ5TC-zUk,Moving from Arduino to MicroPython - 10 Things you need to know.,"Jun 24, 2021",18831.0,1478.1539,208.0,242395,5.32
+14,x4nE1o5JsSg,Visual Studio Code setup for Raspberry Pi Pico,"May 24, 2021",18333.0,631.0116,81.0,102536,9.68
+15,OIqkmgOY_Ws,Installing ROS on a Raspberry Pi 4/400,"Oct 25, 2021",15935.0,1193.1044,238.0,122524,5.67
+16,ZWTEO--0TWc,Raspberry Pi Pico W - the new Raspberry Pi Pico with Wifi,"Jun 30, 2022",15413.0,1013.9879,332.0,206726,4.02
+17,x5guwxSoNcE,Build Your Own AI Assistant Part 2 - To Do lists!,"Jun 18, 2021",14893.0,555.2691,105.0,130426,7.17
+18,F5Bq7HVJkX0,How to use an Xbox Controller with your Robot,"Mar 21, 2022",14532.0,613.6165,109.0,94781,7.94
+19,N3jwEVbZyXY,LEARNING PYTHON - INTRODUCTION - for Raspberry Pi Python Robots,"Jul 27, 2020",14317.0,1058.4299,268.0,49694,8.12
+20,LwKOvT7rCiU,Raspberry Pi Zero Thermal Printer fun project,"Jul 29, 2021",14012.0,527.0986,50.0,84174,7.45
+21,4BEjKUK8DSQ,Is the Raspberry Pi High-Quality Camera worth it? & Build your own Camera,"Aug 22, 2022",13547.0,831.2553,147.0,46836,3.96
+22,iIdoXzcuV2Q,Home Automation with Python and Home Assistant,"Jun 27, 2022",12668.0,1167.6054,140.0,85059,6.4
+23,nW5FUVzYCKM,Inverse Kinematics in Python and MicroPython,"Sep 20, 2021",12493.0,1000.5724,276.0,98061,4.97
+24,kJpLMBqNcIQ,Jetson Nano Custom Object Detection - how to train your own AI,"Aug 23, 2021",12430.0,946.8601,159.0,144526,4.17
+25,kgjmw6SsKMc,Rotary Display Menu for Raspberry Pi Pico in MicroPython,"May 15, 2021",12270.0,435.9675,224.0,104373,5.16
+26,yU8QGiHplgA,Raspberry Pi Pico & Bluetooth,"May 6, 2021",12117.0,1302.0931,136.0,162992,3.73
+27,ph10GSO8pDk,Raspberry Pi Pico & MPU9250 with MicroPython,"May 3, 2021",11512.0,1376.6214,141.0,105410,4.27
+28,g599FlcKgxA,Managing files on the Pico with MicroPython,"May 11, 2021",11353.0,466.2618,75.0,65729,3.99
+29,ld2lKS7sIBA,I made a robot that can see using sound. #shorts,"Nov 3, 2022",11077.0,43.9219,29.0,91944,3.1
+30,tDDkz3Xdhuo,The new Raspberry Pi Debug Probe,"Feb 20, 2023",11054.0,403.2737,67.0,74859,7.05
+31,hV9GTqXLMpg,Raspberry Pi Pico & RFID,"Nov 22, 2021",11012.0,1050.039,116.0,108568,4.84
+32,vXYzJ1os4NA,Eben Upton on the new Raspberry Pi 5,"Sep 28, 2023",10890.0,2315.1617,103.0,231360,2.59
+33,YOkV1WJLx3M,Compute Module 4 & IO Board - Worth it?,"Feb 23, 2022",10871.0,654.0899,39.0,90494,6.5
+34,nvx9jJhSELQ,"How to run Python programs at startup, on Raspberry Pi","May 26, 2022",10780.0,441.9682,73.0,62674,4.32
+35,x4dZafO5FNg,DO THIS to connect two Picos together - to Pico Communication via UART,"Aug 26, 2022",10484.0,466.1553,76.0,82117,4.78
+36,-0wCtKz1l78,How to make a Bluetooth remote using a Raspberry Pi Pico W and MicroPython,"Jul 2, 2023",9881.0,1029.5199,153.0,96411,3.69
+37,TkuDQ-SzXwU,Learn MicroPython - Part 1 Controlling the flow,"Nov 20, 2022",9834.0,817.7871,206.0,140634,3.26
+38,W3V-NU0tcqo,"Using the Raspberry Pi Pico, PCA9685 and MicroPython for Robotics","Mar 8, 2021",9664.0,1163.6106,142.0,100798,3.75
+39,2DVDKU0I9fs,They Just Killed Pi - 7 April 2022 Raspberry Pi Bullseye Update,"Apr 7, 2022",9277.0,362.1289,79.0,65046,7.48
+40,btG3Pd8ZlBw,Virtual Pet Code in MicroPython on the Raspberry Pi Pico - Pico-Tamachibi,"Oct 3, 2021",9224.0,751.1367,132.0,76743,5.28
+41,9YvWT8bNllU,Auto-start scripts on MicroPython,"May 12, 2021",9178.0,410.02,65.0,84377,4.49
+42,nwxzu0MQT5Y,How to render a Fusion 360 Animation in Blender,"Mar 23, 2022",8797.0,467.2233,89.0,68309,4.12
+43,DhYO_-HHBrs,How to add Wireless Charging to your Robot projects (it's so easy),"Aug 5, 2021",8727.0,360.3703,85.0,75025,5.56
+44,_amnSorlPaM,Face Detection using OpenCV using a Raspberry Pi Zero,"Jul 22, 2021",8616.0,523.5185,106.0,74845,5.38
+45,ILELVP0kFl8,Rotary Encoders with the Raspberry Pi Pico and MicroPython,"May 13, 2021",8430.0,283.6818,101.0,80261,3.97
+46,2Y42DSZpR0w,How to build a captive portal with MicroPython - the easiest way EVER!,"Sep 5, 2022",8407.0,1119.5242,148.0,113696,3.42
+47,ZzJC3sX_oF4,Best night of his life,"Oct 12, 2022",8233.0,25.1807,13.0,7230,2.28
+48,ysNTEy1lUKo,Chris Barnatt on the new Raspberry Pi 5,"Sep 28, 2023",7982.0,835.2511,72.0,111722,5.01
+49,Wi8qPuMMo-0,"Cray-1 Raspberry Pi Supercomputer, but how fast and why? - Part 4","Feb 17, 2022",7914.0,351.858,70.0,51706,6.01
+50,KtyLPHXFpD0,What happens when robots die?,"Oct 11, 2022",7710.0,24.8981,20.0,19972,2.44
+51,D2SgH5qxJuI,Pomodoro robot! This is a work in progress but too cute not to share! Subscribe for more robot stuff,"Sep 30, 2022",7492.0,23.3861,17.0,17388,6.11
+52,03wKo-riJlA,Learn ROS with me - Setting up the Raspberry Pi,"Jan 9, 2023",7306.0,682.3674,125.0,78229,4.94
+53,J_CkQ36tVA4,Raspberry Pi Camera Module V3 - new for January 2023,"Jan 9, 2023",7284.0,307.5884,69.0,87635,4.43
+54,2rIJFSLZzhM,Build Your Own AI Assistant Part 3 - Object Classification with Python,"Jul 12, 2021",7252.0,498.6478,95.0,76548,5.94
+55,GX6NnQUZ_Js,Raspberry Pi Pico & SSD1306 Display with MicroPython,"Apr 29, 2021",6794.0,902.8766,113.0,107703,3.29
+56,dOEjfBplueM,Raspberry Pi Pico W Robot - Hacking Big Mouth Billy Bass,"Jul 11, 2022",6696.0,502.6996,99.0,57797,2.9
+57,MWKnMPX0Yjg,An introduction to ROS the Robot Operating System,"Oct 21, 2021",6690.0,460.319,133.0,64177,4.13
+58,UySK0AggZZY,How to install ROS in Docker - on Raspberry Pi 4 running Ubuntu,"Oct 28, 2021",6590.0,277.6988,64.0,62262,4.96
+59,snGTvIlW96I,SMARSFan Live Channel Introduction Dec 2020,"Dec 3, 2020",6338.0,72.5698,22.0,52578,1.08
+60,txKJmd2P_e4,Build Your Own AI Assistant Part 4 - Weather Skill,"Jul 19, 2021",6307.0,486.2948,75.0,73213,5.23
+61,_cTJhCRv858,Build a ROS robot - Learn ROS with me Part 1,"Jan 2, 2023",6131.0,527.8019,173.0,62553,5.26
+62,QlOZAuy6DsU,Make your own GhostBox - using a Raspberry Pi Pico,"Oct 17, 2022",6073.0,354.2843,91.0,63292,5.02
+63,c6D1JRDddkE,Pico-Tamachibi - A Raspberry Pi Pico Powered Virtual Pet,"Sep 29, 2021",6015.0,85.0101,25.0,31607,5.61
+64,q5lML34Noio,Build a ChatGPT-Like language model in Python on a Raspberry Pi,"Mar 20, 2023",5978.0,461.1731,88.0,62466,3.85
+65,mTz-nFvCBhA,Potentiometers and Pico with MicroPython,"May 17, 2021",5859.0,194.8018,57.0,55407,3.82
+66,EpvVYyKwfjs,"4x4 Keypads, Raspberry Pi Pico and MicroPython","May 18, 2021",5775.0,207.2273,69.0,50896,4.19
+67,ERdmCimt1do,How to load MicroPython onto the Raspberry Pi Pico,"May 10, 2021",5731.0,127.5712,34.0,50929,3.11
+68,YBu6GKnN4lk,Raspberry Pi Pico & VL53L0X for MicroPython,"Mar 11, 2021",5650.0,482.5713,98.0,50217,4.67
+69,jcGF-C6t1LI,Cyber Glasses you can hack yourself - Raspberry Pi Pico Powered glasses for Soldering,"May 9, 2022",5642.0,259.5745,66.0,27616,2.18
+70,aXW4dqvjFx0,What can a SMARS robot do?,"Jan 7, 2021",5631.0,140.6576,45.0,48586,6.19
+71,hYpbKisRudo,"Wireless Charging - How to add it to Raspberry Pi Pico, ESP32, Arduino micro:bit projects #Shorts","Aug 5, 2021",5559.0,44.421,10.0,66929,1.35
+72,dfquulcbD7M,"Raspberry Pi 5 Projects, you have to make","Oct 16, 2023",5530.0,616.7547,51.0,70499,4.98
+73,NJYgDpr7QrI,Hi Barbie! Hey Ken! #barbie #robotics,"Aug 10, 2023",5453.0,18.4884,7.0,6383,2.96
+74,xu8tuDvP6PQ,How to make a Robot Cry,"Nov 18, 2020",5440.0,37.6332,22.0,66768,3.67
+75,uRNsqHZEzUM,Python for Robotics - Beyond Basics,"Jun 13, 2022",5395.0,295.9299,106.0,80087,3.17
+76,Gl4o4iHPvDM,Pico SMARS - A Raspberry Pi Pico Powered SMARS,"Apr 15, 2021",5393.0,351.0008,64.0,32723,4.41
+77,lKxJUViQsW8,How to design and make a robot,"Dec 19, 2022",5369.0,629.5608,102.0,84338,3.45
+78,2nn7Y-zu3Ac,Version 4 SMARS vs Original SMARS robot - what’s the difference?,"Jan 13, 2021",5222.0,382.2391,61.0,59583,5.19
+79,yjy5BMfzijQ,Raspberry Pi Pico for Robotics,"Jan 25, 2021",5100.0,701.5708,101.0,109663,2.12
+80,Xxiu7guEqDU,Chromium OS on Raspberry Pi,"Apr 19, 2016",5065.0,17.1528,5.0,2053,1.7
+81,1lI7aIMrM8E,MicroPython & Wifi,"May 31, 2021",4818.0,626.5524,66.0,62248,3.6
+82,VLlEx15h3jU,Mecanum wheels are so cool… #shorts,"Oct 15, 2022",4734.0,20.4282,13.0,53416,3.09
+83,U_7eDCYPado,What is PicoZero?,"May 11, 2022",4714.0,220.4612,32.0,55961,4.66
+84,ypfJIqhkFvo,ESP32CAM For Robotics - #Shorts,"Sep 3, 2021",4614.0,32.248,24.0,87912,1.56
+85,ghAnP18sbl8,"Learn MicroPython - Part 2 If, Else & Data Types","Nov 27, 2022",4608.0,406.324,29.0,78439,2.2
+86,SkSTLNIxrKQ,Raspberry Pi Zero Thermal Printer #Shorts,"Jul 27, 2021",4527.0,23.7674,16.0,46685,3.22
+87,jnPR6XAuJ2U,Raspberry Pi Pico W Robot - Burgerbot gets an upgrade,"Jul 4, 2022",4513.0,316.4935,49.0,52169,2.57
+88,6ZcjfJQWC8k,Raspberry Pi Pico Case design in Fusion 360,"Feb 4, 2021",4408.0,327.7406,33.0,38224,3.62
+89,10x2NQdHYiw,Raspberry Pi OS 64 bit - Upgrade now or wait?,"Feb 3, 2022",4389.0,127.0359,28.0,35252,4.2
+90,9txATldoURE,PicoCat v2 with the new Pimoroni Servo 2040 - is this the best board they've ever made?,"Mar 28, 2022",4329.0,287.4448,44.0,58796,2.05
+91,XTUOUlSnVpc,Raspberry Pi Pico W Ghostbusters PKE style Wifi Scanner,"Jul 18, 2022",4188.0,283.5099,52.0,32959,2.9
+92,W6DkIrMIrBo,Pimoroni Factory Tour (on the Pico W Launch Day),"Jun 30, 2022",4186.0,211.163,18.0,74149,4.19
+93,0wB2i8DFehw,Meet Clustered-Pi - the Raspberry Pi Zero cluster - Clustered-Pi Part 1,"Nov 28, 2021",4157.0,335.5843,56.0,35873,4.5
+94,6u7YaIUaNxI,Upgrading Raspberry Pi OS - Without Loosing Files,"Nov 9, 2021",4129.0,155.0671,23.0,35388,3.8
+95,F-eNnlQrJic,There is something unholy in here #shorts,"Oct 14, 2022",4124.0,13.2675,10.0,6345,2.13
+96,iSTlP4Lbibs,"Raspberry Pi Pico, 7 Segment Displays and 74hc595 shift registers","May 10, 2021",3964.0,419.4875,44.0,49139,2.96
+97,MVxNqvAWJbM,"Cyberdog build, an RGB LED dog coat powered by Raspberry Pi Pico W","Sep 7, 2022",3961.0,15.7024,3.0,52236,2.24
+98,0XZPE4S9fZo,PiDeck - the Stream Deck alternative you can make yourself,"Mar 3, 2022",3936.0,160.4969,34.0,32946,4.76
+99,z6uS8P0E8sE,InMoov Robot Head build update,"Dec 8, 2020",3833.0,91.0962,46.0,38003,6.15
+100,4UIUC1YU_Sk,Using MQTT with Robots (And Home Automation) - Its easier than you think,"Aug 9, 2021",3785.0,395.366,81.0,30122,3.15
+101,OZ60ws-5jP4,How to log motion sensor to Google sheets with a Raspberry Pi Pico W,"Aug 1, 2022",3743.0,365.7052,36.0,53977,3.36
+102,bm-WNhAuWPc,Build your own Bird Detector with A.I. - TwitcherPi: The Raspberry Pi Camera Bird Classifier,"Dec 18, 2021",3732.0,202.2409,60.0,31923,3.6
+103,FrLHFZZIozk,Raspberry Pi 5 - How fast is OpenCV Face detection?,"Oct 9, 2023",3629.0,366.695,68.0,61966,3.6
+104,SJo5hVNk0BQ,Raspberry Pi 5 - Hands on Livestream,"Oct 1, 2023",3625.0,827.2329,57.0,79766,2.71
+105,zUq0hY1B6CI,There is no Cake #shorts,"Nov 11, 2022",3594.0,12.2353,11.0,12940,2.19
+106,8BCsBgt-5zY,How to create Databases in Python with SQLite,"Jul 17, 2023",3577.0,425.4917,72.0,122515,1.84
+107,VbMKRb6SmX8,"Watchdog Timer - What is it, and how to use it in MicroPython","Jul 20, 2022",3574.0,149.0726,28.0,49554,2.99
+108,xTgnJ6OWxfQ,"Raspberry Pi Pico, OpenCat and MicroPython","Feb 1, 2021",3523.0,406.2642,75.0,52916,3.51
+109,UhDLuJYJd-c,Raspberry Pi Pico and nRF24L01 #Shorts,"Aug 26, 2021",3476.0,21.7058,8.0,42186,2.71
+110,DiodH5b42-8,OMG - I got recognised! #shorts,"Nov 22, 2022",3448.0,17.8482,5.0,16317,2.16
+111,pvMGdfkOf4M,Learn how to build a full size Robot.,"Nov 12, 2020",3447.0,112.1451,47.0,19296,5.45
+112,354RspB34jQ,SMARS - Quad Robot walking,"Oct 11, 2018",3428.0,23.1083,6.0,17609,8.79
+113,HmZF6e3I1Lo,Simple Robot Arm you can build yourself,"Sep 19, 2022",3384.0,234.3794,32.0,43522,3.59
+114,M-0P6ipVwNU,Master GPIO with Raspberry Pi Pico & MicroPython - Uncover the Secrets!,"Apr 16, 2023",3362.0,200.3942,48.0,56959,3.29
+115,G3d6aFIohPo,Build Your Own AI Assistant Part 6 - Skills and Plugins,"Aug 8, 2022",3351.0,245.6645,30.0,54548,3.63
+116,gboF8HgULg0,This is why I don’t leave the house #shorts,"Oct 8, 2022",3347.0,31.9517,15.0,17711,5.04
+117,Jql-jufnDRA,Pimoroni Enviro Lineup Review - worth the upgrade?,"Aug 15, 2022",3328.0,538.7746,56.0,47778,3.5
+118,qhkenoI2Z6Y,SMARS Robot Speed Build,"Jan 20, 2021",3323.0,22.5239,13.0,54650,2.78
+119,COqyFJ4vIRk,Building the World's Most Advanced Wrist Computer - Is Pi-PipBoy the Future?,"Mar 27, 2023",3246.0,210.0847,30.0,33525,4.95
+120,oqUUc-mqdak,"How to Draw Graphics with MicroPython, and PicoGraphics","Jul 10, 2023",3243.0,527.5987,35.0,81341,2.08
+121,Kicj15rUsoM,"Ultrasonic scanner, ready when you are!","Nov 2, 2022",3182.0,9.429,5.0,16136,2.28
+122,gzbTaj6ezLM,Pico Wifi Module  #shorts,"Aug 11, 2021",3091.0,25.4536,17.0,56577,2.0
+123,NiDBiUGvZus,Jeff Geerling on the Raspberry Pi 5,"Sep 28, 2023",3027.0,291.5158,35.0,36823,4.75
+124,ev9Mt_gg81g,Learn ROS with me Part 4 - Lidar Visualisation with RViz2,"Jan 23, 2023",2980.0,223.7089,40.0,36865,4.27
+125,k8-ZZCzbPq0,Build Your Own AI Assistant Part 5 - Calendar Skill,"Aug 20, 2021",2963.0,92.8977,16.0,38323,4.79
+126,eIH_dSpL4-U,PicoCrab - A Raspberry Pi Pico Powered Robot Crab,"Feb 26, 2021",2952.0,145.6811,39.0,36131,4.52
+127,MWPnnRE1kR8,Raspberry Pi Zero 2 Theremin - TherePi Part 2,"Nov 19, 2021",2906.0,99.4261,12.0,19806,1.41
+128,v_x5Av9yfGk,5 Things about MicroPython you need to know,"Jun 3, 2021",2903.0,128.1298,19.0,41677,4.49
+129,sErnAebJtuk,How to build a robot,"Mar 11, 2022",2887.0,147.3581,54.0,51882,3.06
+130,HGRvgrl8g1Q,Learn MicroPython - Part 3 Loops and Operators,"Dec 4, 2022",2816.0,258.3138,41.0,55880,2.53
+131,2mmB2TD71g4,SMARS Motor Control Arduino Programming - Movement,"Jul 13, 2020",2812.0,253.7157,38.0,23586,2.79
+132,CnqgSRkvhZw,How to 3d Print a SMARS Robot,"Jan 5, 2021",2801.0,150.5142,35.0,33456,5.05
+133,LdWENznjdts,Transforming Air Quality with Enviro+ Sensors,"May 16, 2022",2741.0,234.5395,33.0,32502,3.86
+134,o5xgLNlJiYk,Raspberry Pi Theremin Midi Project,"Nov 15, 2021",2739.0,131.4589,38.0,21726,2.51
+135,Ldg2HgaTKps,Building Dashboards with Grafana on Raspberry Pi,"Mar 13, 2023",2691.0,239.9663,30.0,37708,3.27
+136,HExE-pqcdcQ,I went to the thrift store and found,"Oct 12, 2023",2680.0,17.3813,3.0,6154,2.31
+137,TScmQV3fcjw,"SMARS Bluetooth, iOS & Arduino - Programming Robots","Jul 20, 2020",2677.0,218.3347,19.0,25608,2.73
+138, -h44BGEiKmA,How good are Weather Station Sensors?,"Feb 21, 2022",2671.0,268.4009,74.0,30713,3.35
+139,dEnK2CbyEmU,Build Your Own AI Assistant Part 7 - Pomodoro Skill,"Oct 5, 2022",2611.0,52.656,24.0,44369,3.87
+140,XhArIe9UDoc,SMARS: The Ultimate Robot for beginners,"Sep 11, 2023",2604.0,243.6629,19.0,170656,0.81
+141,10nd4tk_KhM,TOP 5 SMARS issues - and how to fix them,"Mar 25, 2021",2602.0,206.3118,19.0,33210,4.36
+142,Ldio6vxHGfI,Build your own Spooky Scary Skeleton Halloween Robot!,"Oct 10, 2022",2587.0,145.7988,18.0,22870,2.29
+143,l9_lBNemtZg,Learn ROS with me - Playing with ROS,"Jan 16, 2023",2563.0,282.5707,20.0,37015,3.54
+144,JsYGHDRF-VQ,Mecanum Wheeled Robot - Rover,"May 2, 2022",2540.0,197.4424,21.0,35182,3.07
+145,U36D3WAln3U,#Shorts - Jetson Nano Custom Object Detection - how to train your own AI,"Aug 21, 2021",2529.0,12.6196,6.0,42524,1.81
+146,czb2wNbGRQg,How to remotely login to a Raspberry Pi securely WITHOUT a password - Clustered-Pi Part 2,"Dec 2, 2021",2526.0,54.819,18.0,21758,2.2
+147,MP-kS9g5ui8,SMARS Inventor - the Pimoroni Inventor 2040W Powered SMARS robot,"Jul 25, 2022",2460.0,285.9977,33.0,42794,2.9
+148,fl3UNaUoYzc,Securing passwords with MicroPython,"Jun 10, 2021",2444.0,165.8854,25.0,29701,3.37
+149,iwaRidlm2RM,micro:bit for Robotics,"Mar 22, 2021",2444.0,212.7406,28.0,31765,2.72
+150,x3WD14rFivg,Raspberry Pi 4 Desktop Kit Unboxing,"Nov 28, 2022",2426.0,410.4343,5.0,57811,1.58
+151,wlUjudWsfX0,"Arduino Nano RP2040 Connect, First look","May 25, 2021",2420.0,112.3666,26.0,41331,3.6
+152,yiC5hiVpheg,SMARS Mini Modular Robot!,"Mar 5, 2021",2386.0,150.8446,37.0,25430,4.24
+153, -H8prWRdSAI,I have a new Pet. Meet Bubo! #robotics #python #raspberrypi,"Feb 9, 2023",2368.0,11.1331,9.0,19710,3.24
+154,wFJ2hhnDo8s,Setting up a Raspberry Pi plant sensor #shorts,"Oct 19, 2022",2324.0,8.8484,3.0,27252,1.92
+155,59f_r2pJV0E,micro:bit Quad Robot with MakeCode,"Apr 23, 2021",2322.0,125.1907,23.0,27265,4.23
+156,YMb_R6iFMBs,Make your own Arduino on a breadboard,"Sep 23, 2021",2259.0,75.0978,16.0,31922,4.34
+157,oZ1Ikr_WElI,"SMARS - MPU-6050 & GY-271, Arduino Programming Robots","Jul 18, 2020",2232.0,189.2642,18.0,38174,2.41
+158,Vca0Y1NYMU0,Controlling a SMARS Quad robot with Scratch & Python,"Oct 11, 2018",2225.0,31.6397,6.0,12799,2.36
+159,YVVaeoEigOY,Exploring Pybricks: LEGO Mindstorms Evolved,"Apr 3, 2023",2211.0,219.4588,22.0,27979,4.07
+160,Rz-2ccHRQo4,SMARS Walker - a Theo Jansen based leg system in Fusion 360,"Apr 8, 2021",2198.0,202.7157,57.0,18352,4.81
+161,3qd_63cWbvk,SMARS Fusion 360 Design - Chassis,"Jul 2, 2020",2189.0,165.5597,30.0,18176,3.17
+162,f1widOJYQDc,How to add Over-the-Air updates to your MicroPython projects,"Aug 20, 2023",2181.0,96.8116,23.0,36035,3.16
+163,Ybo8qxZZOFE,Make a robot face with an 8x8 matrix display,"Dec 21, 2020",2169.0,91.8297,26.0,22700,4.1
+164,JbWKsdy5iOk,Design Your Own Eye Mechanism in Fusion 360,"Jan 29, 2023",2168.0,367.4967,45.0,35588,3.26
+165,MWg1xdmgE04,Build your own Cute Pomodoro Desk Robot - HeyBot!,"Oct 3, 2022",2149.0,164.4627,19.0,33169,3.18
+166,I2RLDGSP6Wk,"The Shortage is over, so let's look at Every Raspberry Pi HAT, PHAT, WHAT and Shim","May 29, 2023",2146.0,275.8477,8.0,25442,5.01
+167,PJqZhgt-oi0,Raspberry Pi Pico RGB Keypad Base from Pimoroni | Plus Meet the Maker,"Aug 30, 2021",2146.0,211.2104,29.0,34067,2.89
+168,fApEOFd5_84,Pimoroni Grow Hat Review,"May 3, 2022",2120.0,125.8587,21.0,30240,3.47
+169,mG7stDcin3c,"Bugs - the RoboBunny, Create your own Robotic Easter Bunny","Apr 11, 2022",2094.0,122.2893,29.0,36819,1.67
+170,GKaKHLeO7qQ,Assembling and wiring up the SMARS Quad Robot,"Nov 16, 2020",2080.0,179.2977,25.0,25144,3.46
+171,xCCzzYBWHrM,Raspberry Pi Imager - The Secret Menu you need to know about,"Dec 30, 2021",2076.0,40.1109,23.0,23871,2.45
+172,EHj3UIZt47Q,WAIT! macOS Ventura Drag and Drop Bug affects Raspberry Pi Pico and Circuit Python users!,"Nov 1, 2022",2064.0,73.7409,13.0,33325,3.08
+173,awQ97DOyOcM,"Why I Built BurgerBot, and a review of the Motor 2040","Jun 20, 2022",2058.0,208.7912,22.0,40559,2.69
+174,yCa2agY8KZw,You can be anything #barbie #barbenheimer #robots,"Aug 9, 2023",2034.0,7.8818,3.0,5877,2.93
+175,OX7sPU7V-u0,Build your own low-poly robot - PicoCrab 2.0,"Mar 5, 2023",2020.0,239.1325,19.0,29875,2.94
+176,xbDPdpiPloA,Isaaca Inmoov robot is different,"Apr 25, 2022",2011.0,224.8125,30.0,29259,3.3
+177,oQXzv5nRo3s,It’s finally here! The new Raspberry Pi 5 #raspberrypi5 rpi5 #raspberrypi,"Sep 28, 2023",1956.0,11.522,5.0,23314,2.31
+178,TFsr_gK8NrA,"Raspberry Pi Pico, OpenCat and MicroPython   Servo Easing","Feb 7, 2021",1934.0,232.8809,29.0,33053,2.47
+179,Wxx3pdH8-J4,Raspberry Pi Pico and Range Finder,"Feb 15, 2021",1918.0,204.5299,24.0,27752,3.19
+180,U7zoiJEqraw,SMARS Robots are GO!,"Dec 10, 2020",1897.0,13.6243,6.0,17009,4.17
+181,FXZj5NUnNw8,How to make a Robot Blush,"Nov 14, 2020",1867.0,13.6244,13.0,17728,4.72
+182,W-YwowHpX-g,"Burgerbot v2, now quicker on the draw. Subscribe for more robot, raspberry Pi and Micropython stuff","Sep 21, 2022",1840.0,8.3497,3.0,12712,1.96
+183,fD2qmNgkV0A,How to make a Self Watering Plant System with Enviro Grow and Grow Hat Mini,"Mar 12, 2023",1821.0,75.2292,24.0,31694,2.49
+184,kXs2nYP-aws,Learn Servo Easing with MicroPython,"Feb 20, 2023",1821.0,264.413,14.0,49278,1.4
+185,lynvr7M1F6g,WeatherBot! An ESP8266 and MicroPython powered Robot,"May 30, 2021",1816.0,62.5791,9.0,25145,3.5
+186,90x1u1MjSbw,SMARS Quad robot - walking cycle in Python,"Aug 17, 2020",1809.0,133.0539,18.0,25486,4.51
+187,nLgUGKP-6K8,There is something unholy in here…,"Oct 14, 2022",1800.0,7.5376,5.0,4965,1.39
+188,N5a0SkBamPQ,"Raspberry Pi RP2040 powered Gort, from the movie The Day The Earth Stood Still.","Sep 17, 2022",1793.0,5.8336,3.0,42409,1.22
+189,9MJ-GU8Myzg,Monster mash,"Oct 21, 2011",1791.0,9.7863,0.0,1748,6.41
+190,4DH9DLzvx5Y,The chicken nugget of #Doom,"Aug 2, 2023",1784.0,15.7798,1.0,6154,2.42
+191,2f0fhte4vno,Build a Radar robot using Ultrasound with Raspberry Pi Pico - Full Livestream version,"Nov 7, 2022",1768.0,322.3036,10.0,43904,1.42
+192,czblbt2y8kc,OMG look at this cute Robot! #robotics #micropython #python,"Feb 5, 2023",1744.0,7.0816,7.0,24458,2.17
+193,46O9XDHWsWs,I made a thing! #robotics #micropython #robots,"Aug 15, 2023",1732.0,11.0479,7.0,11426,2.23
+194,9oXuU5ymMhQ,I made a Guitar Hero game using a Pimoroni Galactic Unicorn #raspberrypi #micropython #shorts,"Dec 11, 2022",1724.0,9.4217,2.0,20270,3.95
+195,ZuX45_rid68,Build a Line following robot with MicroPython,"May 1, 2023",1719.0,150.3942,16.0,36965,2.21
+196,O8RxVpMxrz0,The new Raspberry Pi 5 - first look,"Sep 28, 2023",1706.0,119.8418,25.0,27061,3.16
+197,NlybkEO_2iU,Master GPIO with Raspberry Pi Pico & MicroPython - Part 2,"Jun 25, 2023",1680.0,107.2493,13.0,37680,2.47
+198,u9VT32q7ero,SMARS TCRT5000 Line Following Module & Arduino - Programming Robots,"Jul 25, 2020",1680.0,99.0714,6.0,16345,2.67
+199,iUfxHJ072qI,Speech Synthesis and Voice Recognition with PyTTSX3 and PocketSphinx,"Dec 7, 2020",1651.0,75.1697,14.0,19137,2.38
+200,AgOpz3ttPgc,Pico Starter Kit Unboxing and Review,"Jul 26, 2021",1650.0,189.7433,13.0,26934,3.49
+201,yaqrCNlCZVk,I bought these TEMU Robots so you don't have to!,"Sep 4, 2023",1650.0,90.9483,9.0,24095,4.27
+202,jCZ4vdpWTPs,LEARNING PYTHON - LOOPS & VARIABLES - for Raspberry Pi Robots,"Jul 29, 2020",1638.0,137.2552,10.0,28044,3.51
+203,mtfUUuBg1dw,How to setup RetroPie on Raspberry Pi 4,"Aug 14, 2023",1598.0,197.3947,11.0,32153,2.06
+204,dS9YRWA-YjI,How to create Cute Robots in Fusion 360,"Apr 18, 2022",1595.0,140.0011,16.0,40564,2.39
+205,CwLfz6WVSYw,Look at this walking mechanism #robotics #micropython #python #raspberrypi #3dprinting,"Mar 1, 2023",1584.0,7.6518,4.0,22742,3.32
+206,q25K-KP5Qzg,Cool thing I had to share #robotics #micropython #raspberrypi,"Feb 15, 2023",1564.0,12.4062,5.0,29385,2.2
+207,5_4z38F9jm4,Raspberry Pi 400 Setup for Robotics - How I setup my RPI400,"Oct 8, 2021",1553.0,54.1101,13.0,41080,1.72
+208,ylZYOJ2zx8c,Build the Ultimate Birthday Card with a Raspberry Pi Pico,"Apr 23, 2023",1542.0,68.7209,10.0,31145,1.91
+209,fXgVCk3UTk0,Ikea Head Lamp Hack with MicroPython,"Apr 10, 2023",1531.0,133.2887,14.0,23402,2.65
+210,XVfY00ICNHQ,How to use 8x8 LED Displays with MicroPython,"Sep 4, 2023",1522.0,166.3998,4.0,79249,0.88
+211,H55OOXtS7ns,How it works - LiDAR #robotics #robots #stem,"Aug 23, 2023",1516.0,9.4554,2.0,14695,3.31
+212,N44u_T5aD1g,Build a Cute Humanoid Interactive Pal - CHIP!,"May 8, 2023",1505.0,197.131,4.0,35829,2.2
+213,aZ-YDUX4404,How to make a robot blush #shorts,"Oct 10, 2022",1496.0,9.901,7.0,12663,5.13
+214,QAooj0nuQZs,XGO CM4 Robot dog Unboxing & Live stream hangout,"Jun 26, 2023",1486.0,142.0798,7.0,22754,3.17
+215, -zhc7UnzHys,Tiny QR code reader #micropython  #raspberrypi #adafruit,"Sep 8, 2023",1467.0,10.6119,1.0,13727,3.47
+216,om5ACORH3f4,Game Changer? In-Depth Review of the Raspberry Pi 4's Picar-X Robot Kit!,"Nov 13, 2023",1464.0,143.9352,11.0,43275,2.36
+217,H6CNmnT6kGo,How to Design PCBs with Fusion 360 in less than 1 hour,"Aug 7, 2023",1458.0,271.9593,9.0,35842,2.09
+218,gamWwKwWSiA,Build Your Own AI Part 5 - Calendar Skill #Trailer,"Aug 19, 2021",1454.0,8.1409,13.0,23206,4.21
+219,DEAUPOZoXn0,How to use RGB LED Strips with the Plasma 2040,"Apr 4, 2022",1444.0,188.7485,19.0,30677,2.12
+220,OBAn3GVU4v0,Make your own Galactic Guitar Hero game - using a Pimoroni Galactic Unicorn,"Dec 12, 2022",1427.0,120.1521,13.0,22960,2.56
+221,5C3R7VWO1Bo,Powering your projects - A quick guide,"Mar 19, 2023",1420.0,75.5158,12.0,32978,2.2
+222,DbCiNEaZw9I,Pimoroni Trilobot Review - Raspberry Pi 4 powered Robot Kit,"Jan 17, 2022",1393.0,131.7636,17.0,25345,2.32
+223,hzBzzvsDGLs,Unleash your creativity with Pimoroni Unicorn Pack Text Scroller & Stand,"May 23, 2022",1390.0,144.5509,18.0,29841,1.78
+224, -nMNtW2SAsM,6 Raspberry Pi Terminal Hacks you need to know,"Jan 6, 2022",1389.0,85.6063,13.0,26125,2.44
+225,wFvYFizRcro,How to build a no-code robot with Viam,"Jul 24, 2023",1381.0,134.5197,17.0,30111,2.38
+226,Nv7j7r0Skbw,The worlds most advanced Christmas Tree Bauble,"Nov 13, 2022",1346.0,6.0583,1.0,17588,2.54
+227,fs-a4uCpEO8,"SMARS SG90 Servos, PCA9685 & Arduino - Programming Robots","Jul 22, 2020",1333.0,98.0519,9.0,26763,1.71
+228,OJAPQOc1RV0,Create a robot that can tweet and post to Instagram using Python,"Feb 27, 2023",1320.0,91.2706,11.0,35578,1.0
+229,uqiws1eZ8og,Object Oriented Python for Robots - building Chip Part 2,"May 22, 2023",1299.0,119.7797,6.0,34853,2.12
+230,GmROORq8xGE,How to build a dancing robot,"Nov 4, 2021",1297.0,34.9739,15.0,24361,2.32
+231,pTGriQzuoUU,SMARS Short - How to make a Robot Dance,"Dec 1, 2020",1290.0,7.5956,6.0,12812,2.75
+232,OrWB4D3J2Z4,3 Hour PICADE Unboxing - The Raspberry Pi Powered Retro Arcade Machine,"Jan 31, 2022",1289.0,171.8027,4.0,21398,3.22
+233,RqoC1wNR7no,Wiring up the SMARS Electronics,"Sep 28, 2020",1281.0,117.394,8.0,17041,3.34
+234,bV2sw7XBaqo,Googley Eyes that Google what they see,"Jul 31, 2023",1257.0,87.4762,7.0,20761,1.67
+235,CYP3oL3Vs9o,BurgerBot V2 - How to make a Robot THAT CAN DRAW!,"Sep 26, 2022",1220.0,106.7574,14.0,24836,2.0
+236,GgsZ32_MfSs,Loading the SMARS Arduino code,"Oct 5, 2020",1207.0,80.5642,11.0,16431,2.85
+237,ouC5g-xY6rc,Elecfreaks micro:bit Retro Arcade review and unboxing,"Jul 3, 2023",1174.0,109.4579,4.0,23753,2.14
+238,JSE3AMzu16Y,Creating IoTs using Arduino Cloud and the Nano ESP32,"Nov 6, 2023",1169.0,149.5673,6.0,31739,2.22
+239,PogrzAoPVb4,Pico Bluetooth Remote Control for SMARS #2,"Jun 7, 2021",1167.0,130.6482,6.0,33500,1.53
+240,JFyReh--wIQ,10 Raspberry Pi Projects you can make yourself - Raspberry Pi 10th Birthday,"Feb 28, 2022",1162.0,111.8628,11.0,22962,2.29
+241,Kf-ziDjZRx0,How to make the QUAD SMARS robot Walk,"Aug 24, 2020",1153.0,57.5574,13.0,19769,3.99
+242,O7gw22CKxs4,Elecfreaks Cutebot Pro Review,"Aug 28, 2023",1152.0,128.7166,7.0,25377,1.96
+243,U741QL8LzZM,Raspberry Pi Pico - Tic-Tac-Toe Playing Robot: Pico-Tico,"Sep 13, 2021",1151.0,85.8535,9.0,21926,1.84
+244,TBoCBz7QOYk,This Steam Punk Robot Will Blow Your Mind - Check Out What It Can Do!,"Feb 6, 2023",1139.0,116.582,15.0,23506,1.83
+245,U6sQC5NMa2I,Can robots dance? #python #robotics,"Jun 3, 2023",1137.0,6.041,0.0,15201,2.42
+246,5G6psAuTYT4,How to build a BurgerBot v2 - its EASIER than you think!,"Sep 28, 2022",1117.0,46.4943,6.0,27417,1.81
+247,TO5B9doMss0,PicoCat UnitTesting with MicroPython,"Mar 15, 2021",1106.0,106.4633,10.0,14597,2.81
+248, -hQD_SLYL8E,Build your Dream Robot Lab,"May 17, 2021",1101.0,146.6493,13.0,16007,3.76
+249,Gc-znjgK-aM,OttoDIY and SMARS Robots,"Feb 18, 2021",1101.0,51.6694,22.0,14821,3.35
+250,1_w_Tg-L_lE,Assemble & Code with MeArm and Pimoroni Inventor Hat on Raspberry Pi Zero W,"Jun 5, 2023",1097.0,136.7023,4.0,28884,2.01
+251,sUf5sI8HJko,Lego Mindstorms Robot vs SMARS Robot,"Sep 6, 2021",1094.0,78.3949,5.0,31075,1.72
+252,8oVOS6xfmkw,Build your own Ultrasonic Radar Robot - Part 1,"Nov 7, 2022",1088.0,58.6698,16.0,22693,1.95
+253,KQAXO3PEE9s,Getting Started with Robotics an Introduction and overview,"Sep 7, 2020",1088.0,97.7985,50.0,17751,3.49
+254,k1JKXqV2lO0,Raspberry Pi Zero 2 - Zero gets an upgrade!,"Oct 28, 2021",1088.0,50.2968,5.0,24902,2.44
+255,49LEwFdFxxU,Raspberry Pi 5 announced #raspberrypi #raspberrypi5 #rpi5,"Sep 28, 2023",1078.0,4.8847,5.0,12081,1.83
+256,UcEuRWKj1og,SMARS & Python: classes & object oriented programming,"Aug 12, 2020",1077.0,91.3202,11.0,22810,2.62
+257,l_IoQ1KgPRE,DIY Lego Compatible Robot Parts - from just 1 Model Using Fusion 360,"Jan 24, 2022",1068.0,107.6806,12.0,24041,1.87
+258,9suKw8pGe-Q,Halloween Robot Design in Fusion 360,"Oct 10, 2021",1050.0,79.8502,15.0,35758,1.32
+259,Ws5DM0JhMAk,Pimoroni Breakout Garden Review,"Jan 18, 2022",1049.0,32.8256,11.0,21226,2.42
+260,gJUsHlIcHdk,SMARS Mini Backpack update,"May 19, 2021",1043.0,33.565,4.0,19814,2.37
+261,N-FHCdnOVBs,Who you gonna call?,"Oct 15, 2022",1037.0,3.3574,0.0,6199,1.79
+262,qzTNFwcfJ5U,Build your own Ultrasonic Radar Robot - Part 3,"Nov 7, 2022",1037.0,55.2629,9.0,23473,2.29
+263,5EBdj4_eJEk,Meet the Maker - Alex Glow and Companion Robots!,"Jan 10, 2022",1006.0,103.289,5.0,20084,2.28
+264,ZinPFHsna2c,SMARS HC-SR07 Range Finder Arduino Programming - Sensors,"Jul 15, 2020",1005.0,73.9138,3.0,17706,1.63
+265,647Zb0SYWE8,"It’s cute, but what is it?","Oct 29, 2022",994.0,3.3147,0.0,6506,2.24
+266,dWBL6bewniw,Naomi's Heat-Set Inset Tool Review,"Sep 25, 2023",992.0,74.8388,1.0,17807,3.58
+267,t8yl0TS4qHA,Assembling the SMARS parts & soldering,"Sep 21, 2020",989.0,102.2677,11.0,16825,2.77
+268,32GXhAuXZrQ,Printing the parts of the SMARS Quad robot,"Nov 9, 2020",984.0,65.5974,10.0,19737,2.76
+269,MVv8EGDg-hU,Coding for Beginners with Tinkercad,"Jan 18, 2021",979.0,67.1336,11.0,14508,2.26
+270,UgdtHzUiN2o,Check Out These Mind-Blowing Projects from Makers Central 2023...,"May 22, 2023",955.0,30.1581,1.0,22722,2.61
+271,UURmlI0Sru0,Can you power a #RaspberryPi #Pico using Potato’s?,"May 31, 2023",941.0,4.0082,2.0,12800,2.27
+272,_CTzgIFqnZY,Will the motors actually work? - Explora Update & Design improvements,"Mar 15, 2022",934.0,19.8052,10.0,22424,1.62
+273,JpG0nKY4wM4,3D Print the SMARS Parts,"Sep 14, 2020",921.0,86.595,4.0,23071,1.72
+274,ZNlR79be2wU,The ultimate birthday card? #robotics #micropython #pico #raspberrypi,"Apr 24, 2023",913.0,3.4855,0.0,12943,1.44
+275,_htCCMsSCbI,Learn python for SMARS robot - GIT & SOURCE CODE CONTROL,"Sep 2, 2020",909.0,31.8485,9.0,6568,10.25
+276,1mj3Ja2Zj0Q,PicoCat & Fusion 360,"Feb 22, 2021",908.0,76.7884,16.0,11452,2.84
+277,yyctf0D_k-M,Micropython Robot - Cutebot review,"Oct 31, 2022",905.0,99.8,1.0,24024,1.76
+278,I-Z9OiFS-D0,Ghostbusters Wifi Scanner #short,"Jul 16, 2022",903.0,8.2452,2.0,16732,2.31
+279,Px_sNAxxpzA,Which board should you use?,"Aug 16, 2021",893.0,170.6885,6.0,21347,2.05
+280,304YCIk58MU,Merlins Cave - a Pico and MicroPython Adventure,"Jun 1, 2021",885.0,42.616,4.0,19137,2.47
+281,ePNwZ3erx9M,We broke Eben! #raspberrypi5 #raspberrypi #rpi5,"Sep 28, 2023",885.0,4.1288,0.0,10113,2.84
+282,V2ZCbxGvIaA,Cyberdog Walkabout #Short,"Sep 10, 2022",876.0,9.6492,1.0,18689,2.83
+283,giWluBwmIno,Bittle Robotic Dog Unboxing and Review,"Feb 12, 2023",875.0,219.0697,2.0,19855,2.34
+284,ByF2tICm3IM,Paper SMARS - a robot you can print,"Apr 12, 2021",873.0,59.803,7.0,17968,2.4
+285,D-u7sADEky0,Learn ROS with me Part 4b - I fixed the bug!,"Jan 22, 2023",853.0,15.1128,2.0,18275,2.4
+286,8PZ9_EAaVD8,Pimoroni Inventor Hat Mini Review,"Apr 24, 2023",851.0,97.4318,-2.0,23025,2.05
+287,ds_ItsiosH0,PCB Fabrication - making a Bluetooth Remote Control,"Aug 21, 2023",848.0,93.6523,2.0,24420,1.92
+288,J8OI8z_BWtk,Face detection Companion Bot - with Trilobot,"Jan 31, 2022",836.0,76.5525,11.0,19533,1.88
+289,T2bGMwvrSYI,Robot Lab upgrades - for all the dangerous things,"Sep 30, 2023",823.0,8.5354,2.0,15988,2.61
+290,vyWWRnmqPjU,Three AIs walk into a bar… #raspberrypico #micropython #chatgpt,"Apr 5, 2023",817.0,3.7847,0.0,7960,2.2
+291,6IQ3afUBWTs,LEARNING PYTHON - FILES & DATA STRUCTURES - for Raspberry Pi Robots,"Aug 2, 2020",806.0,55.6964,10.0,26351,1.91
+292,lcswSr9R_Cc,How to make Music and Sound with the Arduino,"Jan 4, 2021",801.0,38.5753,13.0,8153,1.96
+293,hDUJo88u-rw,Face Detection with OpenCV (SOUND AND VIDEO OUT OF SYNC),"Nov 30, 2020",758.0,32.9969,12.0,16762,1.31
+294,7eabLgOfTt8,SMARS Fusion 360 Design - Tracks,"Jul 8, 2020",752.0,54.0728,8.0,17136,1.95
+295,zO6VqaopWLQ,How many robots do I have?? 🤖🔥#shorts,"Oct 30, 2022",744.0,4.2008,1.0,6710,2.31
+296,lh_kwV21Tio,SMARS Fusion 360 Design - Wheels,"Jul 4, 2020",740.0,58.9212,9.0,17877,1.63
+297,aUqe8S0VR0M,Build your own Ultrasonic Radar Robot - Part 2,"Nov 7, 2022",737.0,24.0482,8.0,19831,1.64
+298,MGqCdRVqWBY,Pico Remote Control for SMARS,"May 24, 2021",734.0,71.484,7.0,13652,2.68
+299,7-_CPvBrxT0,SMARSLab - a SMARS Python Web Interface,"Nov 23, 2020",729.0,72.8926,7.0,17068,2.16
+300,ryh9AlbqUgA,Making the worlds most over-engineered Christmas Tree Bauble LIVESTREAM,"Nov 14, 2022",727.0,71.3857,4.0,27922,1.06
+301,PO-ZhQJOB44,Raspberry Pi Camera Module design in Fusion 360 for SMARS Quad,"Dec 14, 2020",712.0,46.9214,9.0,14619,1.79
+302,HqSl4jSU4vw,2023 - Project Updates,"Apr 17, 2023",697.0,135.1703,3.0,21760,1.75
+303,8fCqkJkxruU,What does a robot see? Let’s find out! 🤖👀 #robotics #micropython #python #raspberrypi,"Feb 8, 2023",672.0,3.3033,0.0,9999,0.68
+304,5CgsPxhGR5Y,Cyberdog - RGB LED Coat for my Dog - part 1,"Sep 2, 2022",664.0,8.102,1.0,25144,1.64
+305,h7M5azMXIYA,Meet the Maker - James Bruton,"Feb 13, 2022",655.0,64.5135,4.0,22077,1.25
+306,Rlrm1Jcppeg,How do you prepare for Pancake day? #robotics #micropython #raspberrypi,"Feb 16, 2023",654.0,2.0942,1.0,7297,1.59
+307,AZxjzK2a4fE,What is Chat GPT 4? #python #robotics #ai,"Mar 15, 2023",650.0,3.6773,0.0,16947,0.67
+308,_FK4afSG5fA,Cyberdog Coat Build and Test - Did it work?,"Sep 12, 2022",649.0,62.2648,0.0,19351,1.77
+309,eDvpRmfa6nU,Everything that went wrong so far - Bubo Build Diary,"Feb 1, 2023",649.0,25.5891,9.0,24334,1.22
+310,Ho71zusYenE,Work in progress - worlds most over-engineered Christmas tree bauble,"Nov 12, 2022",638.0,2.652,0.0,9748,2.38
+311,jnmt93d8R1M,Do robot bunny’s have fluffy tails? #shorts,"Oct 16, 2022",634.0,1.6942,1.0,7687,1.48
+312,YnY_E_rM4Zs,What dis? Bubo is ready for Makers Central! #robotics #micropython #raspberrypi,"May 10, 2023",633.0,1.9203,0.0,9561,1.89
+313,UT8yIdwu0bc,SMARS Bluetooth Remote Control - Stunts!,"Jul 19, 2020",630.0,5.8639,1.0,8831,3.45
+314,GVE5b1hEXZU,TwitcherPi Part 2 - Creating a Web API with Flask and MongoDB,"Jan 3, 2022",620.0,77.5014,8.0,18478,1.63
+315,X2XaSo_nRVE,We are the Robots! Here are a couple of builds from my robot lab. #shorts,"Oct 3, 2022",611.0,3.6536,1.0,13691,1.31
+316,OpYhT4lBcVs,How Many Robots did I build in 2021?,"Dec 20, 2021",600.0,49.2341,2.0,16005,2.27
+317,i-0aZntqxUo,PicoCat & Fusion 360 #2,"Mar 1, 2021",594.0,58.8443,8.0,22372,1.19
+318,M088p-xqzzw,Automate with Ansible - Clustered-Pi Part 3,"Dec 6, 2021",592.0,91.5215,5.0,18671,1.41
+319,BC90ZJPgmno,Teaser - Every Sunday at 7pm,"Sep 10, 2020",589.0,3.861,5.0,15368,0.83
+320,mBlP0uvieys,Make bluetooth racing robots with SMARS,"Dec 28, 2020",583.0,54.5135,11.0,11278,2.85
+321,6vmocW8bLR0,Moving from Arduino to MicroPython - livestream (had to stop due to streaming issues),"Jun 21, 2021",580.0,81.2824,8.0,13890,2.2
+322,Jy02ApzvyDM,Meet the Maker - Simon Monk of MonkMakes,"Oct 17, 2021",578.0,89.729,5.0,21994,1.36
+323,-566dThsGJw,SMARS Quad Morse Code #Shorts,"Jun 12, 2021",543.0,2.7687,1.0,9090,1.61
+324,oDRjlZeG4aY,I found this footage - are these Backroom Bots?,"Dec 22, 2022",538.0,3.4328,2.0,7307,1.74
+325,ONg3rSCnflw,Periodic Table of Robotics - Part 1 Building the Page,"Feb 7, 2022",513.0,48.5773,0.0,20114,1.34
+326,bHOi_JGL0QE,What is a Robot?,"Apr 5, 2021",510.0,52.2041,8.0,17442,0.89
+327,g5rXZpoJ_9Q,"So many things to review - the Smart CuteBot, Arducam TOF, Pimoroni Pico System, Maker & Seeed stuff","Oct 4, 2022",507.0,1.987,1.0,9000,2.02
+328,4miMrD0y_-M,SMARSLab - for Quad Walking Robots,"Jun 14, 2021",506.0,60.4206,3.0,22125,1.25
+329,R5G8xHwR0tg,CuteBot! #shorts,"Oct 31, 2022",486.0,1.4358,1.0,6672,1.84
+330,DNc7M8EKxyM,Look what I found! #starwars #robots #c3po,"Oct 4, 2023",475.0,3.4833,0.0,6954,1.61
+331,UlY00Het18M,Building the worlds most advanced Christmas Tree Bauble - Part 1,"Nov 14, 2022",450.0,16.0163,3.0,21741,0.69
+332,ST9fSDYQWQ8,Meet the Maker - meet Liz Clark from BlitzCityDIY,"Nov 7, 2021",437.0,48.2435,5.0,15429,1.09
+333,9giwlaVupUs,Why YOU should use Jupyter Labs for Robotics,"Jan 10, 2021",436.0,53.7568,11.0,8378,2.55
+334,iD_FUTohnIQ,"Meet the Maker - Camilo Parra Palacio, OttoDIY","Sep 26, 2021",431.0,29.7117,6.0,23081,0.94
+335,zW1Z0Xi_v6I,SMARS Fusion 360 Design - HC-SR07 Range Finder,"Jul 6, 2020",429.0,30.3076,4.0,15170,1.36
+336,IEiJ2JUcClI,5000 Subscriber show & Post Raspberry Pi Event Catchup,"Mar 7, 2022",425.0,77.4437,2.0,18605,1.16
+337,ij1zMzfsl74,Building the worlds most advanced Christmas Tree Bauble - Part 2,"Nov 14, 2022",410.0,13.5136,2.0,24201,0.58
+338,PiTjmUsJDc0,Thank You!,"Mar 6, 2022",395.0,2.613,6.0,17879,1.26
+339,Q7XZ5F2I0Lk,Spring 2021 - Project Update,"Apr 26, 2021",394.0,43.784,2.0,10441,1.99
+340,dFQ18C_grQY,SMARS Dumper Truck Trailer,"May 21, 2021",390.0,13.8721,2.0,12808,1.43
+341,Cbg0Bmciu3U,Halloween Robots - Part 2: Arduino Line Following Bots,"Nov 1, 2021",372.0,29.5274,4.0,26182,0.74
+342,S1SY5YvBLTQ,Boxing Day Unboxing - New Robot for the Robot Lab,"Dec 27, 2021",363.0,29.3918,1.0,16110,1.32
+343,vJjM7JmY72E,GY-271 Soldering and 3d printing a module to fit it to a SMARS Robot,"Jul 17, 2020",354.0,6.6464,0.0,13873,1.23
+344,I8WZ7ZEsHjM,Building the worlds most advanced Christmas Tree Bauble - Part 4,"Nov 14, 2022",348.0,7.3097,-2.0,18023,0.45
+345,mCu9yL65rNs,SMARS Fusion 360 Design - Motor Holder,"Jul 11, 2020",343.0,24.6599,3.0,15100,1.09
+346,Irz5Y5LSG_E,"Getting to Grips with InMoov,  Arm Update","Dec 17, 2020",333.0,8.1537,2.0,8420,2.03
+347,HRHpF9FNPLI,1000 Subscribers video - #Makeitcount,"Apr 13, 2021",297.0,5.5764,6.0,9654,1.31
+348,abACCW056xs,10K - Thank you.,"Sep 22, 2022",295.0,2.3425,7.0,19728,0.89
+349,__Y4J8-t89o,"Minnie likes Chip tune music, specifically Robocop for the ZX Spectrum 128k","Feb 1, 2022",292.0,2.8005,2.0,16448,0.95
+350,pkXVYTFFwkU,SMARS next steps & recap,"Oct 11, 2020",263.0,16.513,5.0,5862,2.06
+351,R9eihHOKTUg,Building the worlds most advanced Christmas Tree Bauble - Part 3,"Nov 14, 2022",252.0,5.7913,0.0,19373,0.24
+352,FNSrCTT-UW8,SG90 Servos - Teaser,"Jul 21, 2020",249.0,1.7383,0.0,7256,2.21
+353,lAE1HZFvv_k,My top 10 Programming tips for coding SMARS Robots,"Jul 22, 2020",244.0,6.9509,2.0,6433,2.11
+354,XeRW6tWKyxI,Hewenden Viaduct,"Aug 10, 2017",214.0,5.7664,1.0,729,10.01
+355,JMGLmKEsBlg,MacBook Pro M1 unboxing,"Nov 26, 2020",175.0,8.9059,2.0,4565,2.3
+356,9DGQenB0p9w,What the f,"Sep 20, 2011",164.0,0.8701,0.0,121,12.4
+357,1K0zIK3mZD0,Barn Dance,"Jun 20, 2010",142.0,1.513,0.0,203,0.49
+358,wzLHPst7FSs,SMARS Quad robot build-along - Overview and 3d printing the parts,"Oct 18, 2020",137.0,0.3305,2.0,620,4.19
+359,wOOAExrpSxY,"Raspberry Pi Pico, OpenCat and MicroPython - Servo Easing - Part 1",,130.0,7.6133,2.0,1361,3.97
+360,O8R1fNZtiTM,Raspberry Pi Camera Module design in Fusion 360 for SMARS Quad,,123.0,6.3899,3.0,6730,0.7
+361,bx7ew0zvuLg,ESP32CAM For Robotics - Trailer,,122.0,0.8746,0.0,203,7.39
+362,2JIjBZblNb4,What is she thinking? #shorts,"Oct 18, 2022",103.0,0.3251,0.0,2021,2.62
+363,Kn5wkgfe4Ws,Helicopter Shenanigans In Trafalgar Square,"Mar 22, 2012",91.0,0.6763,0.0,108,6.48
+364,N0yeu8MgpcM,Hi I'm Alex!,"Aug 27, 2007",90.0,0.0494,0.0,239,1.67
+365,PdMYUQiiKDI,Wiggle bottom,"Aug 22, 2010",90.0,0.243,0.0,159,6.29
+366,RaM6pgApz3o,Kittens,"Jan 30, 2011",90.0,0.8195,0.0,40,0.0
+367,SIZZPesJ2Uo,"Raspberry Pi Pico, OpenCat and MicroPython - Servo Easing - Part 2",,82.0,10.784,1.0,1244,2.81
+368,jEsfa1RS2iE,Getting Started with Robotics Teaser,"Sep 5, 2020",82.0,0.4765,1.0,4895,0.92
+369,DNu82dLUxVU,The Witches Tower,"Aug 5, 2017",71.0,2.326,0.0,325,4.62
+370,ChsyMt2xhP4,The Cheese Monster,"Feb 13, 2011",63.0,0.5369,0.0,129,2.33
+371,4vewBJDcrvI,ROS Part 1 - Trailer,,62.0,0.4901,0.0,2,0.0
+372,fLnfpUxI4B8,Scout Road 2017,"Aug 10, 2017",61.0,1.5311,0.0,435,7.13
+373,78-gEf4Dmtk,The Beast,"Jun 6, 2015",59.0,0.6971,0.0,154,2.6
+374,wThvukGYoss,Getting Started with Robotics - Part 1,"Sep 6, 2020",59.0,0.3777,0.0,166,3.01
+375,degTqv4F68A,Police Squad,"Mar 29, 2015",53.0,1.0298,0.0,352,1.14
+376,PnMPyC4Qv6o,Bolton to Belmont,"Mar 28, 2015",51.0,2.7988,0.0,121,6.61
+377,YO5eqbuxKTo,First Drone Flight,"Aug 4, 2017",51.0,2.0644,0.0,160,4.38
+378,w5Hz-nbxGco,Alex rocker,"Jun 5, 2010",51.0,0.005,0.0,188,0.0
+379,lFL1RrC1c5M,St Ives,"Sep 8, 2010",50.0,0.2622,0.0,40,5.0
+380,CNBpCRap8MA,Alton towers,"Sep 9, 2010",49.0,0.2093,0.0,34,2.94
+381,st42a948T8U,Make your own Arduino Trailer,,49.0,0.2629,0.0,24,87.5
+382,79Xl4Ivty0Y,The Boatyard Inn,"Aug 9, 2017",45.0,0.5294,0.0,326,3.68
+383,W_b9seTSAYg,Annabelle dancing,"Mar 6, 2010",41.0,0.103,0.0,65,1.54
+384,eS0Mrsr5YfI,Alex's Minecraft Adventure,,41.0,0.5743,0.0,0,
+385,0GZZXqSi6kE,Kayaking Windermere 2017,"Jun 10, 2018",40.0,1.6296,0.0,502,4.78
+386,IGjI5Epf1-A,Mentos and diet coke,"Apr 15, 2010",39.0,0.1654,0.0,39,5.13
+387,xedc6jf4C6E,Will Elon Musks robot take over the world?,"Oct 19, 2022",37.0,0.0487,0.0,604,3.64
+388,tIzdjKqBJx0,Talking Tom,"Aug 29, 2010",35.0,0.0721,0.0,237,0.84
+389,GqmF6dBGEdc,IT Support Room,"Feb 4, 2012",33.0,0.0755,0.0,68,4.41
+390,jrDsq-pzl_4,River rapids,"Aug 31, 2010",33.0,0.0892,0.0,45,0.0
+391, -TJUDPDILjc,Channel Trailer,,31.0,0.2578,1.0,21,0.0
+392,vuLA_1RKul8,Lokulus' Got Talent,,29.0,0.6969,0.0,19,5.26
+393,4LWv7Esqsmw,The Rocket,"Aug 7, 2017",27.0,0.4038,0.0,182,1.65
+394,f2bcwnQpug4,Timelapse,"Mar 27, 2015",26.0,0.1267,0.0,114,0.0
+395,tpFojgqUg3U,Kitten wool slow motion,"Sep 23, 2013",25.0,0.0398,0.0,80,1.25
+396,RWTlcOIwyP0,Epic Selfie,"Aug 12, 2017",23.0,0.204,0.0,195,6.67
+397,fPuQ2nIlPgY,Scuba Diving in Bouley Bay - Short Clip,,23.0,0.7494,0.0,9,11.11
+398,M_AF6caRKJQ,A Day in the Life,"Apr 24, 2017",22.0,0.5507,0.0,203,2.96
+399,YbPyqqjhBig,Frankie hydrotherapy,"Dec 21, 2015",22.0,0.1281,0.0,185,2.16
+400,dej7LNdfb3s,Mum and dads 40th anniversary,"May 22, 2010",22.0,0.043,0.0,26,0.0
+401,FkRWqoW1RL4,Frankie and spot,"Mar 7, 2010",20.0,0.0631,0.0,34,0.0
+402,ZwI_AQ4TsxU,Porthleven,"Jun 25, 2010",20.0,0.0051,0.0,34,0.0
+403,dvf_ak2O68A,Top of the Rock Youtube,"Jun 6, 2015",20.0,0.1591,0.0,130,0.0
+404,7vpCqrN8mIg,Alton towers bungie,"Sep 8, 2010",19.0,0.0599,0.0,37,5.41
+405,DyEfaZckglo,Talking Harry the Hedgehog,"Sep 18, 2010",18.0,0.0203,0.0,79,1.27
+406,rFLiPSUI0uM,Dame and Alex,,15.0,0.0938,0.0,0,
+407,EF_IC-XY5Q0,PCBWay Sponsor Segment Draft,,13.0,0.2647,0.0,0,
+408,gkhpY4puouE,Ocean Sunset,"Aug 23, 2017",13.0,0.1583,0.0,164,2.44
+409,2a2q_PABCCE,Lytham Windmill,"Aug 9, 2017",12.0,0.1634,0.0,1,0.0
+410,MRXfgbqbwhs,Frankies Walk,"Mar 23, 2015",12.0,0.1825,0.0,56,0.0
+411,5TvBck3g5K0,Frankies Swim,"Mar 23, 2015",11.0,0.2714,0.0,67,0.0
+412,G-QN2PZG_QE,My hangout,"Feb 13, 2014",11.0,0.0287,0.0,186,0.54
+413,IQqvghRzew4,Lokulus's Got Talent,,9.0,0.1462,0.0,22,4.55
+414,PhJ2MTDpjIk,Live Stream,,9.0,0.4333,0.0,59,6.78
+415,ALxS0qDpteU,Kayaking,,8.0,0.3863,0.0,0,
+416,Snz2k_RtKGM,Scuba Diving in Bouley Bay,,8.0,1.6588,0.0,8,0.0
+417,7KmfW6iMZEg,Tape 016,,7.0,0.1885,0.0,0,
+418,82C5gbUtUtM,Good Friday HD 1080p,"Apr 4, 2015",7.0,0.2895,0.0,0,
+419,KIQLL4r2zFo,SMARS - Quad Robot walking,,7.0,0.0489,0.0,4,0.0
+420,UoS59sum5YI,G Man,"Mar 25, 2015",7.0,0.0102,0.0,48,0.0
+421,DatXuidteyo,Tape 020 Part 2,"Sep 9, 2016",6.0,0.0907,0.0,214,0.0
+422,TaEl-l92YHM,Tape 030 1,,5.0,0.1024,0.0,0,
+423,dsZk4WB0xBA,Tape 019 Part 2,,5.0,0.0038,0.0,0,
+424,JJ9lxNZJKLQ,Storm,"Oct 16, 2017",4.0,0.0142,0.0,159,1.26
+425,kNqq-NTT6rk,Multistreaming with Restream.io,"Jan 13, 2021",4.0,0.0694,0.0,0,
+426,knb8uF_i2gs,Sound Check,,4.0,0.0986,0.0,0,
+427,vp3cLp_N8Vw,Tape 019,,4.0,0.0236,0.0,0,
+428,wT5IRf6lElA,Tape 018,,4.0,0.0403,0.0,0,
+429,2kUuCTXB2aU,Episode 4 Teaser - Assembling the parts,,3.0,0.0246,0.0,2,0.0
+430,JcOmADCvsC0,SMARS Fusion 360 design,"Jul 2, 2020",3.0,0.0077,0.0,164,1.22
+431,PjUF3EWueGU,Multistreaming with Restream.io,,3.0,0.0054,0.0,0,
+432,Y6BRzX1xLvw,Tape 019 Part 1,,3.0,0.0253,0.0,0,
+433,pSFrf9d1vYY,Houghton Arms,,3.0,0.0314,0.0,20,0.0
+434, -uKGEiqLn3g,Tape 020,,2.0,0.0224,0.0,0,
+435,4MJL9bFaKXo,TCR Scenario 1 - Change Management,,2.0,0.0,0.0,0,
+436,CmASZouP9IU,Roadtrip to Howarth,,2.0,0.0007,0.0,0,
+437,QLqMR0buYA4,Winterhill Bunker,,2.0,0.0829,0.0,22,4.55
+438,o5dX8hLWtvg,Kayaking,,2.0,0.0114,0.0,0,
+439,0XkK1KyzJuo,Cycling - Jersey 2016,,1.0,0.0043,0.0,0,
+440,CX89rvfsW1o,Mother Shiptons,,1.0,0.0048,0.0,0,
+441,DfLkDBldTF0,Knaresborough,"Sep 2, 2017",1.0,0.0319,0.0,161,0.0
+442,FGwAd7TlhEQ,Lokulus's Got Talent,,1.0,0.0375,0.0,24,4.17
+443,Im6FpVeR15w,Kittens,,1.0,0.0134,0.0,0,
+444,NaShtFspn3I,Live Stream,"Sep 27, 2020",1.0,0.0023,0.0,0,
+445,RgDuRMpBLf8,Live Stream,,1.0,0.1014,0.0,0,
+446,_Nw34DJUOtg,Live Stream,,1.0,0.0062,0.0,0,
+447,wyvqNEFflgQ,6 December 2020,,1.0,0.0016,0.0,0,
+448,U0RBSIjFIJo,Kevin McAleer Live Stream,"Aug 11, 2020",,,,1,0.0
+449,iMqtS6CbeE4,Tape 020 Part 1,"Sep 9, 2016",,,,56,0.0
+450,tkq4BWUnA_4,Chromium OS Release 0.5 for Raspberry PI 2 & 3 Annoucement,,,,,8,0.0
